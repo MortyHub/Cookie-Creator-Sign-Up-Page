@@ -24,4 +24,8 @@ button {
 	border-top-color:black;
 	border-bottom-color:black;
 	border-radius:60px;
+	border-color:black;
+}
+button:hover {
+	background-color:purple;
 }
